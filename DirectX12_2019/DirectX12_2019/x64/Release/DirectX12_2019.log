@@ -1,0 +1,43 @@
+﻿FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see D:\DataFiles\DirectX12\DirectX12_2019\x64\Release\FXAA.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see D:\DataFiles\DirectX12\DirectX12_2019\x64\Release\pera.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see D:\DataFiles\DirectX12\DirectX12_2019\x64\Release\Primitive.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+D:\DataFiles\DirectX12\DirectX12_2019\DirectX12_2019\VertexShader.hlsl(63,13-30): warning X3206: 'mul': implicit truncation of vector type
+  compilation object save succeeded; see D:\DataFiles\DirectX12\DirectX12_2019\x64\Release\VertexShader.cso
+D:\DataFiles\DirectX12\DirectX12_2019\DirectX12_2019\VertexShader.hlsl(63,2-30): warning X3206: implicit truncation of vector type
+D:\DataFiles\DirectX12\DirectX12_2019\DirectX12_2019\VertexShader.hlsl(64,14-32): warning X3206: 'mul': implicit truncation of vector type
+D:\DataFiles\DirectX12\DirectX12_2019\DirectX12_2019\VertexShader.hlsl(70,15-32): warning X3206: 'mul': implicit truncation of vector type
+D:\DataFiles\DirectX12\DirectX12_2019\DirectX12_2019\VertexShader.hlsl(93,11-51): warning X3206: implicit truncation of vector type
+D:\DataFiles\DirectX12\DirectX12_2019\DirectX12_2019\VertexShader.hlsl(108,15-61): warning X3206: 'dot': implicit truncation of vector type
+  
+  App.cpp
+D:\DataFiles\DirectX12\DirectX12_2019\DirectX12_2019\Dx12Initer.h(3,10): fatal error C1083: include ファイルを開けません。'DirectXTex.h':No such file or directory
+  Dx12Initer.cpp
+D:\DataFiles\DirectX12\DirectX12_2019\DirectX12_2019\Dx12Initer.h(3,10): fatal error C1083: include ファイルを開けません。'DirectXTex.h':No such file or directory
+  FileNaneController.cpp
+  imgui_impl_dx12.cpp
+  imgui_impl_win32.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_widgets.cpp
+  PlaneMesh.cpp
+D:\DataFiles\DirectX12\DirectX12_2019\DirectX12_2019\PrimitiveMesh.h(3,10): fatal error C1083: include ファイルを開けません。'DirectXTex.h':No such file or directory
+  PMDManager.cpp
+D:\DataFiles\DirectX12\DirectX12_2019\DirectX12_2019\PMDManager.cpp(53,27): warning C4244: '初期化中': 'float' から 'unsigned int' への変換です。データが失われる可能性があります。
+  PMXManager.cpp
+  PrimitiveMesh.cpp
+D:\DataFiles\DirectX12\DirectX12_2019\DirectX12_2019\PrimitiveMesh.h(3,10): fatal error C1083: include ファイルを開けません。'DirectXTex.h':No such file or directory
+  Source.cpp
+D:\DataFiles\DirectX12\DirectX12_2019\DirectX12_2019\Dx12Initer.h(3,10): fatal error C1083: include ファイルを開けません。'DirectXTex.h':No such file or directory
+  TextureManager.cpp
+D:\DataFiles\DirectX12\DirectX12_2019\DirectX12_2019\TextureManager.h(4,10): fatal error C1083: include ファイルを開けません。'DirectXTex.h':No such file or directory
+  VMDLoader.cpp
+D:\DataFiles\DirectX12\DirectX12_2019\DirectX12_2019\VMDLoader.cpp(26,12): warning C4244: '引数': 'float' から 'long' への変換です。データが失われる可能性があります。
+D:\DataFiles\DirectX12\DirectX12_2019\DirectX12_2019\VMDLoader.cpp(36,21): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
